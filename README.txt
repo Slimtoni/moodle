@@ -5,6 +5,9 @@
   * | | | | | || |_| || |_| || |_| || || |___/
     |_| |_| |_|\_____/\_____/\_____||_|\_____)
 
+This is our part to the OpenSource World. We will need a lot of practice but we will succeed.
+
+
 Moodle - the world's open source learning platform
 
 Moodle <https://moodle.org> is a learning platform designed to provide
